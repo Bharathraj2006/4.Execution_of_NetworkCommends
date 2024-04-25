@@ -1,4 +1,6 @@
 # 4.Execution_of_NetworkCommands
+## Register No : 212223230031
+## Name : P.Bharathraj
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
@@ -74,11 +76,20 @@ except Exception as e:
 finally:
     s.close()
 ```
+### Trace Route command
+```
+from scapy.all import *
+target = ["www.google.com"]
+result, unans = traceroute(target,maxttl=32)
+print(result,unans)
+```
 ## Output
 ### Client
 ![Screenshot 2024-04-20 092441](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/2a800f71-cdba-40c3-8a4f-0b948c91c153)
 ### Server
 ![Screenshot 2024-04-20 092423](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/55b5910e-a869-4a3a-b5f7-f6037601aae0)
+### Trace Route command
+![image](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/30fdeca5-3bfa-488c-be39-18c1d62d4df4)
 
 ## Result
 Thus Execution of Network commands Performed 

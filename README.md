@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## Register No : 212223230031
 ## Name : P.Bharathraj
+## Register No : 212223230031
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software : 
@@ -85,11 +85,14 @@ print(result,unans)
 ```
 ## Output
 ### Client
-![Screenshot 2024-04-20 092441](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/2a800f71-cdba-40c3-8a4f-0b948c91c153)
+![image](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/2ed3f199-d011-41f1-9238-ff99f47632a4)
+
 ### Server
-![Screenshot 2024-04-20 092423](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/55b5910e-a869-4a3a-b5f7-f6037601aae0)
+![image](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/9f84c579-e1c7-4a59-adfd-fe14221f4b69)
+
 ### Trace Route command
-![image](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/30fdeca5-3bfa-488c-be39-18c1d62d4df4)
+![image](https://github.com/Bharathraj2006/4.Execution_of_NetworkCommends/assets/152376845/7c911fc6-a2e8-47fc-9d31-6f3496818569)
+
 
 ## Result
 Thus Execution of Network commands Performed 
